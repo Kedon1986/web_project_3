@@ -23,6 +23,20 @@
 /*photo-grid*/
 @import url(../blocks/photo-grid/phot-grid.css);
 @import url(../blocks/photo-grid/__cell/photo-grid__cell.css);
+/*places*/
+@import url(../blocks/places/places.css);
+@import url(../blocks/card/card.css);
+@import url(../blocks/card/__table-1/card__table-1.css);
+@import url(../blocks/card/__table-2/card__table-2.css);
+@import url(../blocks/card/__items/card__items.css);
+@import url(../blocks/card/__url-heading/card__url-heading.css);
+@import url(../blocks/card/__link/card__link.css);
+@import url(../blocks/card/__image/card__image.css);
+@import url(../blocks/card/__title/card__title.css);
+@import url(../blocks/card/__text/card__text.css);
+@import url(../blocks/card/__cost/card__cost.css);
+
+
 
 
 

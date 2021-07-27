@@ -1,0 +1,9 @@
+.card__cost {
+  margin: 0 0 65px;
+  padding: 0;
+  width: 484px;
+  height: 26px;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 26px;
+}
