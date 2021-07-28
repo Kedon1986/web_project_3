@@ -35,6 +35,23 @@
 @import url(../blocks/card/__title/card__title.css);
 @import url(../blocks/card/__text/card__text.css);
 @import url(../blocks/card/__cost/card__cost.css);
+@import url(../blocks/card/__cost/_margin/card__cost_margin_erie.css);
+@import url(../blocks/card/__cost/_margin/card__cost_margin_ohio.css);
+@import url(../blocks/card/__cost/_line-height/card__cost_line-height_maine.css);
+@import url(../blocks/card/__cost/_margin/card__cost_margin_hampshire.css);
+@import url(../blocks/card/__url-heading/_margin/card__url-heading_margin_hampshire.css);
+/*cover*/
+@import url(../blocks/cover/cover.css);
+@import url(../blocks/cover/__title/cover__title.css);
+@import url(../blocks/cover/__image/cover__image.css);
+@import url(../blocks/cover/__subtitle/cover__subtitle.css);
+/*footer*/
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__links/footer__links.css);
+@import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
+
+
 
 
 

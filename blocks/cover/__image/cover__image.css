@@ -1,0 +1,10 @@
+.cover__image {
+  position: relative;
+  background-image: url("../../../images/highway-background.png");
+  background-repeat: no-repeat;
+  width: 1184px;
+  height: 740px;
+  text-align: center;
+  padding: 0;
+  margin: 0 auto;
+}
