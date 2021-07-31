@@ -8,6 +8,27 @@
   font-size: 72px;
   line-height: 1.06; 
   text-align: center;
-  width: 55%;
-  margin: 0;
+  width: 656px;
+  margin: 0 auto;
 } 
+
+@media screen and (max-width: 1024px){
+  .cover__title {
+    left: 184px;
+    top: 233px;
+  }
+} 
+
+@media screen and (max-width: 768px){
+  .cover__title {
+    left: 56px;
+    top: 153px;
+  }
+}
+
+@media screen and (max-width: 320px){
+  .cover__title {
+    left: 16px;
+    top: 51px;
+  }
+}

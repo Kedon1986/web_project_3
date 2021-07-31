@@ -1,15 +1,26 @@
 .cover__image {
-  position: relative;
-  background-image: url("../../../images/highway-background.png");
-  background-repeat: no-repeat;
-  height: 740px;
-  text-align: center;
   padding: 0;
   margin: 0 auto;
+  width: 100%;
+  object-fit: cover;
 }
 
 @media screen and (max-width: 1024px){
   .cover__image {
     width: 100%;
   }
-}
+} 
+
+@media screen and (max-width: 768px){
+  .cover__image {
+    width: 100%;
+  }
+} 
+
+@media screen and (max-width: 320px){
+  .cover__image {
+    width: 100%;
+  }
+} 
+
+

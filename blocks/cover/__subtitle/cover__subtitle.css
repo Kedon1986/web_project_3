@@ -8,5 +8,27 @@
   font-weight: normal;
   font-size: 18px;
   line-height: 1.22;
-  width: 25%;
+  width: 320px;
+  text-align: center;
 }
+
+@media screen and (max-width: 1024px){
+  .cover__subtitle {
+    left: 352px;
+    top: 341px;
+  }
+} 
+
+@media screen and (max-width: 768px){
+  .cover__subtitle {
+    left: 224px;
+    top: 261px;
+  }
+} 
+
+@media screen and (max-width: 320px){
+  .cover__subtitle {
+    left: 16px;
+    top: 102px;
+  }
+} 
