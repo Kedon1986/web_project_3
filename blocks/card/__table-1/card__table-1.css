@@ -1,4 +1,11 @@
 .card__table-1 {
   padding: 0;
   margin: 0;
+  max-width: 460px;
+}
+
+@media screen and (max-width: 1024px){
+  .card__table-1 {
+    max-width: 440px;
+  }
 }

@@ -2,19 +2,16 @@
   padding: 0;
   margin: 0 auto;
   max-width: 1184px;
-  max-height: 671px;
   display: grid;
-  grid-template-columns: repeat(4,284px);
-  grid-template-rows: repeat(3 , 213px) ;
-  gap: 16px 16px;
+  grid-template-columns: repeat(4 , 1fr);
+  gap: 16px ;
 }
 
 @media screen and (max-width: 1024px){
   .photo-grid {
-    grid-template-columns: repeat(3, 325px);
-    grid-template-rows: repeat(4 , 300px) ;
+    grid-template-columns: repeat(3 , 1fr);
     max-width: 928px;
-    gap: 14px 14px;
+    max-height: 942px;
+    gap: 14px;
   }
-  
 }
