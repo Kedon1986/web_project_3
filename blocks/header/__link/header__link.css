@@ -6,10 +6,17 @@
   height: 28px;
   margin: 0;
   padding: 0;
+  transition: 0.3  ease-in-out;
+  text-decoration: none;
 }
 
 .header__link:first-of-type {
-  width: 27px;
-  height: 28px;
   margin-right: 18px;
 }
+
+
+.header__link:hover {
+  opacity: 0.8;
+  text-decoration: underline;
+}
+

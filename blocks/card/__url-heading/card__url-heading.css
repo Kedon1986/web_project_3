@@ -1,9 +1,9 @@
 .card__url-heading{
-  width: 456px;
-  font-weight: normal;
+  font-weight: 400;
   font-size: 12px;
   line-height: 170%;
   letter-spacing: 0.2em;
   padding: 0;
   margin: 30px 0 12px;
+  color: #AAAAAA;
 }
