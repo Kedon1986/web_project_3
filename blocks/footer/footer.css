@@ -1,9 +1,18 @@
 .footer{
   max-width: 1184px;
-  max-height: 18px;
   margin: 0 48px;
   padding: 0 0 24px;
   display: flex;
   align-items: center;
   justify-content: space-between;
+}
+
+@media screen and (max-width: 320px){
+  .footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-left: 16px;
+  }
 }

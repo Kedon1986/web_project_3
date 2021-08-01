@@ -1,3 +1,9 @@
 .card__url-heading_margin_hampshire {
   margin-top: 106px ;
 }
+
+@media screen and (max-width: 320px){
+  .card__url-heading_margin_hampshire {
+    margin-top: 30px;
+  }
+}
