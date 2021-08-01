@@ -23,23 +23,19 @@
 /*photo-grid*/
 @import url(../blocks/photo-grid/phot-grid.css);
 @import url(../blocks/photo-grid/__cell/photo-grid__cell.css);
-/*places*/
+/*place*/
 @import url(../blocks/places/places.css);
-@import url(../blocks/card/card.css);
-@import url(../blocks/card/__table/card__table.css);
-@import url(../blocks/card/__table-text/card__table-text.css);
-@import url(../blocks/card/__items/card__items.css);
-@import url(../blocks/card/__url-heading/card__url-heading.css);
-@import url(../blocks/card/__link/card__link.css);
-@import url(../blocks/card/__image/card__image.css);
-@import url(../blocks/card/__title/card__title.css);
-@import url(../blocks/card/__text/card__text.css);
-@import url(../blocks/card/__cost/card__cost.css);
-@import url(../blocks/card/__cost/_margin/card__cost_margin_erie.css);
-@import url(../blocks/card/__cost/_margin/card__cost_margin_ohio.css);
-@import url(../blocks/card/__cost/_line-height/card__cost_line-height_maine.css);
-@import url(../blocks/card/__cost/_margin/card__cost_margin_hampshire.css);
-@import url(../blocks/card/__url-heading/_margin/card__url-heading_margin_hampshire.css);
+@import url(../blocks/place/place.css);
+@import url(../blocks/place/__description/place__description.css);
+@import url(../blocks/place/__image/place__image.css);
+@import url(../blocks/place/__link/place__link.css);
+@import url(../blocks/place/__row/place__row.css);
+@import url(../blocks/place/__text/place__text.css);
+@import url(../blocks/place/__title/place__title.css);
+@import url(../blocks/place/__url-heading/place__url-heading.css);
+@import url(../blocks/place/__website/place__website.css);
+@import url(../blocks/place/__row/_align/place__row_align_bottom.css);
+
 /*cover*/
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/cover/__link/cover__link.css);

@@ -1,9 +1,0 @@
-.card__cost_margin_ohio {
-  margin-bottom: 23px;
-}
-
-@media screen and (max-width: 320px){
-  .card__cost_margin_ohio {
-    margin: 0;
-  }
-}

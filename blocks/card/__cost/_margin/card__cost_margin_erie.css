@@ -1,9 +1,0 @@
-.card__cost_margin_erie {
-  margin:  0 0 12px;
-}
-
-@media screen and (max-width: 320px){
-  .card__cost_margin_erie {
-    margin: 0;
-  }
-}
