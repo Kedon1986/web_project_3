@@ -12,21 +12,18 @@
   .page {
     width: 1024px;
   }
-  
 }
 
 @media screen and (max-width: 768px){
   .page {
     width: 768px;
   }
-  
 }
 
 @media screen and (max-width: 320px){
   .page {
     width: 320px;
   }
-  
 }
 
 

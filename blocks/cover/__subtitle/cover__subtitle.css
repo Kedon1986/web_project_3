@@ -30,5 +30,8 @@
   .cover__subtitle {
     left: 16px;
     top: 102px;
+    font-size: 14px;
+    line-height: 1.14;
+    width: 288px;
   }
 } 
