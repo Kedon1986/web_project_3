@@ -35,11 +35,9 @@
 @import url(../blocks/place/__title/place__title.css);
 @import url(../blocks/place/__url-heading/place__url-heading.css);
 @import url(../blocks/place/__website/place__website.css);
-@import url(../blocks/place/__row/_align/place__row_align_bottom.css);
-
 /*cover*/
 @import url(../blocks/cover/cover.css);
-@import url(../blocks/cover/__link/cover__link.css);
+@import url(../blocks/cover/__content/cover__content.css);
 @import url(../blocks/cover/__title/cover__title.css);
 @import url(../blocks/cover/__image/cover__image.css);
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
