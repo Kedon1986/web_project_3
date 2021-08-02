@@ -20,6 +20,7 @@
 @import url(../blocks/intro/__listtext/intro__listtext.css);
 @import url(../blocks/intro/__text/intro__text.css);
 @import url(../blocks/intro/__subtitle/intro__subtitle.css);
+@import url(../blocks/intro/__listtext/_mixed/intro__listtext_mixed_font.css);
 /*photo-grid*/
 @import url(../blocks/photo-grid/phot-grid.css);
 @import url(../blocks/photo-grid/__cell/photo-grid__cell.css);

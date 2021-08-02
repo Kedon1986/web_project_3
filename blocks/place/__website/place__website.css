@@ -4,3 +4,22 @@
   justify-content: flex-end;
   width: calc(984px - 500px);
 }
+
+@media screen and (max-width: 1024px){
+  .place__website {
+    width: calc(928px - 472px);
+  }
+}
+
+@media screen and (max-width: 768px){
+  .place__website {
+    width: calc(720px - 368px);
+  }
+}
+
+@media screen and (max-width: 320px){
+  .place__website {
+    margin-left: 16px;
+    width: 288px;
+  }
+}
