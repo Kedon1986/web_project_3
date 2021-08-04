@@ -7,9 +7,10 @@
   object-fit: cover;
   padding: 0;
   height: 740px;
-  width: 100%;
+  max-width: 1184;
   display: block;
   color: white;
+  margin: 0 auto;
 }
 
 .cover__content::before {
