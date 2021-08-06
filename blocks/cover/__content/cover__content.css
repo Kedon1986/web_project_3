@@ -5,7 +5,6 @@
   align-content: center;
   background-image: url("../../../images/highway-background.png");
   background-repeat: no-repeat;
-  text-align: center;
   background-size: cover;
   padding: 0;
   max-width: 1184px;
@@ -47,7 +46,7 @@
 
 @media screen and (max-width: 320px){
   .cover__content {
-   width: 100%; 
+   width: 100%;
    min-height: 200px;
   }
 } 
