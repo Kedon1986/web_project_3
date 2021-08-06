@@ -10,4 +10,6 @@
 This project focuses on responsive web-design using flex-box and grid to accomodate popular screen sizes ,
 320px, 768px 1024px 1280px.
 
+**LINK**
 
+https://kedon1986.github.io/web_project_3/
