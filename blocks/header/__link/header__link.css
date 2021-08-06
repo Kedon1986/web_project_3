@@ -1,7 +1,6 @@
 .header__link {
   font-weight: normal;
   font-size: 24px;
-  width: 27px;
   line-height: 1.17;
   margin: 0;
   padding: 0;
@@ -13,11 +12,6 @@
   margin-right: 18px;
 }
 
-
-.header__link:hover {
-  opacity: 0.8;
-  text-decoration: underline;
-}
 
 @media screen and (max-width: 320px){
   .header__link {
