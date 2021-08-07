@@ -14,9 +14,11 @@
   text-decoration: none;
   text-align: center;
   min-height: 740px;
+  position: relative;
 }
 
 .cover__content::before {
+  position: absolute;
   content: "";
   top: 0;
   left: 0;

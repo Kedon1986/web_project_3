@@ -6,8 +6,8 @@
   margin: 0 0 81px;
 }
 
-.place:last-of-type {
-  margin: 0;
+.place:last-child .place__text {
+  margin-bottom: 0;
 }
 
 @media screen and (max-width: 1024px){
@@ -35,7 +35,7 @@
   .place {
     grid-template: 1fr / 1fr;
     gap: 30px;
-    margin: 0 16px;
+    margin: 0;
   }
 } 
 
