@@ -6,6 +6,7 @@
   background-image: url("../../../images/highway-background.png");
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
   padding: 0;
   max-width: 1184px;
   color: white;
