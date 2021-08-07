@@ -6,9 +6,6 @@
   margin: 0 0 81px;
 }
 
-.place:last-child .place__text {
-  margin-bottom: 0;
-}
 
 @media screen and (max-width: 1024px){
   .place {
@@ -35,7 +32,7 @@
   .place {
     grid-template: 1fr / 1fr;
     gap: 30px;
-    margin: 0;
+    margin: 48px 0 0;
   }
 } 
 
